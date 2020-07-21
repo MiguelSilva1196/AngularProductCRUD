@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hambúrguer",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "price": "9.5"
+    },
+    {
+      "id": 2,
+      "name": "X-Búrguer",
+      "price": 10.5
+    },
+    {
+      "id": 3,
+      "name": "X-Bacon",
+      "price": 12.5
+    },
+    {
+      "id": 4,
+      "name": "X-Tudo",
+      "price": 14.5
+    },
+    {
+      "id": 6,
+      "name": "Coca cola 600ml",
+      "price": 7.5
+    }
+  ]
+}
